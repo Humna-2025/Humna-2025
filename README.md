@@ -94,6 +94,23 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 
 <br>
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Humna-2025&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<br>
+
+## 🏫 Education
+
+
+**B.S. Computer Science** — KICSIT University, IST Campus, Kahuta-Rawalpindi
+&nbsp;&nbsp;&nbsp;Duration - 2024 - 2028 · Status - **Semester 5 Starting** · CGPA: 3.46/4.0
+
+<br>
 
 
 
