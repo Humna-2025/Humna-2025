@@ -108,255 +108,11 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 
 
 **B.S. Computer Science** — KICSIT University, IST Campus, Kahuta-Rawalpindi
-| Duration - 2024 - 2028 |  | Status - **Semester 5 Starting** | | CGPA: 3.46/4.0 |
+&nbsp;&nbsp;&nbsp;| Duration - 2024 - 2028 |  | Status - **Semester 5 Starting** | | CGPA: 3.46/4.0 |
 
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Databases
-
-
-
-
-
-
-AI & Machine Learning
-
-
-
-
-
-
-
-
-Tools & Platforms
-
-
-
-
-
-
-
-
-
-
-Core Concepts
-
-Object-Oriented Programming Data Structures Problem Solving CRUD Operations REST APIs Database Design SQL Queries NoSQL File Handling Responsive Web Design
-
-<br>
-🚀 Featured Projects
-🌐 SkillSwap, Peer-to-Peer Skill Bartering Platform
-
-Full Stack Web Application
-
-SkillSwap is a full-stack web application designed to help students exchange skills with each other through a credit-based skill bartering system.
-
-Users can offer skills, search for other skills, send swap requests, transfer credits, and interact through a rating and notification system.
-
-Tech Stack
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Key Features
-
-👤 User registration and login
-🔄 Peer-to-peer skill exchange
-💳 Credit-based transaction system
-📜 Transaction history
-🔎 Skill search and filtering
-⭐ Rating system
-🏆 Leaderboard
-🔔 Notifications for swap requests
-📱 Responsive frontend
-🔌 15+ REST API endpoints
-🗄️ Complete CRUD operations
-
-Project Focus
-
-Full Stack Development REST APIs Flask Backend MongoDB PyMongo CRUD Operations Frontend Integration
-
-<br>
-🧩 Sudoku Solver
-
-C++ | Object-Oriented Programming | Backtracking
-
-A C++ based Sudoku Solver that uses recursive backtracking to solve a standard 9×9 Sudoku puzzle.
-
-Concepts Used
-
-C++
-Object-Oriented Programming
-Arrays
-Recursion
-Backtracking
-Logical Problem Solving
-Constraint Checking
-
-Key Features
-
-9×9 Sudoku board
-Row validation
-Column validation
-3×3 box validation
-Recursive solving
-Object-Oriented implementation
-<br>
-🎨 Anime Explorer, A Beginner's Portal
-
-HTML | CSS
-
-A beginner-friendly website created as an academic ICT project to introduce users to the world of anime.
-
-Topics Covered
-
-What is Anime?
-Anime vs Cartoon
-Anime Art Style
-Manga
-Popular Anime
-Evolution of Anime
-Anime Genres
-Popular Anime Websites
-
-Skills Practiced
-
-HTML CSS Responsive Layout Web Page Organization Team Collaboration
-
-<br>
-🤖 Offline Document Q&A Chatbot
-
-Python | Llama 3 | LangChain | ChromaDB | RAG
-
-An academic AI project focused on building an offline document-based chatbot.
-
-The system allows users to upload documents and ask questions about their content. The chatbot retrieves relevant information from the uploaded document and generates answers based on that content.
-
-Tech Stack
-
-
-
-
-
-
-
-
-
-
-Key Features
-
-📄 Document upload
-🔍 Document-based question answering
-🧠 Retrieval-Augmented Generation
-💬 Chat interface
-📴 Offline/local AI processing
-📚 File-aware responses
-<br>
-🎬 Movie Ticket Booking Database
-
-Oracle SQL | Advanced SQL | Database Design
-
-An academic database project designed to simulate the backend structure of a movie ticket booking system.
-
-Database Entities
-
-Movies
-Theaters
-Users
-Bookings
-
-SQL Concepts Used
-
-Inner Joins Outer Joins Aggregate Queries Subqueries Search Queries Filtering Database Normalization Relational Database Design
-
-<br>
-🧑‍💻 C++ Projects
-📊 CGPA Calculator
-
-Concepts: C++ OOP Classes & Objects Arrays GPA Calculation
-
-<br>
-🔐 Login & Registration System
-
-Concepts: C++ File Handling User Registration Login Validation Authentication Logic
-
-<br>
-🏦 Banking System
-
-Concepts: C++ OOP Account Management Transaction Logic File Handling
-
-<br>
-✅ To-Do List Application
-
-Concepts: C++ Classes & Objects Vectors File Handling Task Management
-
-Features
-
-Add tasks
-View tasks
-Mark tasks as completed
-Manage pending tasks
-<br>
-🔒 File Encryption & Decryption
-
-Concepts: C++ File I/O Encryption Logic Decryption Logic Character Transformation
-
-<br>
-🧠 AI & Machine Learning
-
-I'm currently strengthening my foundation in Artificial Intelligence and Machine Learning.
-
-Areas I'm Learning
-
-
-
-
-
-
-
-
-Data Preprocessing Classification Regression Clustering Machine Learning Algorithms RAG Large Language Models
-
-<br>
-📚 Currently Learning
-Frontend Development
-        ↓
-Full Stack Development
-        ↓
-Backend & REST APIs
-        ↓
-Database Development
-        ↓
-AI & Machine Learning
-<br>
-🗺️ Learning & Development Timeline
+## 🗺️ Learning & Development Timeline
 2024
 │
 ├── Started BS Computer Science
@@ -381,12 +137,16 @@ AI & Machine Learning
 2027 - 2028
 │
 └── Advanced Development + Internship + Final Year Project
+
 <br>
-📊 GitHub Stats
+
+## 📊 GitHub Stats
 <div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Humna-2025&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humna-2025&layout=compact&theme=tokyonight&hide_border=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Humna-2025&theme=tokyonight&hide_border=true" /> <br> <img src="https://github-profile-trophy.vercel.app/?username=Humna-2025&theme=tokyonight&no-frame=true&row=1&column=6" /> </div> <br>
-📈 Contribution Graph
+
+## 📈 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Humna-2025&theme=tokyo-night&hide_border=true" /> </div> <br> <div align="center">
-⭐ Thanks for visiting my profile!
+  
+### ⭐ Thanks for visiting my profile!
 
 I'm always learning, building, and improving my skills through practical projects.
 
