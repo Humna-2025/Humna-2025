@@ -139,9 +139,11 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 └── Advanced Development + Internship + Final Year Project
 
 <br>
-  
-### ⭐ Thanks for visiting my profile!
 
-I'm always learning, building, and improving my skills through practical projects.
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Humna-2025&style=flat-square&color=2EC4B6" alt="Profile views" /> </div> ```
+### ⭐ Thanks for visiting my profile! I'm always learning, building, and improving my skills through practical projects.
+
+<img src="https://komarev.com/ghpvc/?username=Humna-2025&style=flat-square&color=2EC4B6" alt="Profile views" />
+
+</div>
