@@ -139,12 +139,6 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 └── Advanced Development + Internship + Final Year Project
 
 <br>
-
-## 📊 GitHub Stats
-<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Humna-2025&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humna-2025&layout=compact&theme=tokyonight&hide_border=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Humna-2025&theme=tokyonight&hide_border=true" /> <br> <img src="https://github-profile-trophy.vercel.app/?username=Humna-2025&theme=tokyonight&no-frame=true&row=1&column=6" /> </div> <br>
-
-## 📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Humna-2025&theme=tokyo-night&hide_border=true" /> </div> <br> <div align="center">
   
 ### ⭐ Thanks for visiting my profile!
 
