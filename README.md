@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Humna+Nawaz;BS+Computer+Science+Student;Full+Stack+Developer+in+Progress;AI%2FML+Enthusiast;Building+Practical+Software+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Uzair+Hassan;Computer+Scientist+%7C+Lecturer+%40+IST;Energy-Aware+%26+Federated+Learning+Researcher;Building+Green%2C+Sustainable+AI+Systems" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Humna--2025-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Humna-2025)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Humna%20Nawaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humna-nawaz-66288a331/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humna-nawaz-66288a331/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:humnnawaz32@gmail.com)
 
 </div>
 
-<br>
+<br>                                                                                                                                                                       
 
 ## 🧭 About Me
 
