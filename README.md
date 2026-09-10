@@ -33,7 +33,7 @@ I'm currently focused on improving my full stack development and AI/ML skills wh
 
 📅 2024 - 2028  
 📚 Currently starting Semester 5  
-📊 CGPA: **3.53**
+📊 CGPA: **3.46**
 
 ---
 
