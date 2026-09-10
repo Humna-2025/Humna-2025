@@ -79,16 +79,16 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Uzair390-Del&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair390-Del&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Humna-2025&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humna-2025&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzair390-Del&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Humna-2025&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Uzair390-Del&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Humna-2025&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
