@@ -104,15 +104,22 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 
 <br>
 
-## 🏫 Education
+## 🏫 Education 
 
-
-**B.S. Computer Science** — KICSIT University, IST Campus, Kahuta-Rawalpindi
-&nbsp;&nbsp;&nbsp;| Duration - 2024 - 2028 |  | Status - **Semester 5 Starting** | | CGPA: 3.46/4.0 |
+```yaml
+Course:       **B.S. Computer Science**
+university:   KICSIT University, IST Campus, Kahuta-Rawalpindi
+location:     Islamabad, Pakistan 🇵🇰
+semester:     5th Current Semester
+Duration:     2024 - 2028
+CGPA:         CGPA: 3.46/4.0                                                                                                          
+```
 
 <br>
 
-## 🗺️ Learning & Development Timeline
+## 🗺️ Learning & Development Timeline 
+
+```yaml
 2024
 │
 ├── Started BS Computer Science
@@ -137,10 +144,10 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 2027 - 2028
 │
 └── Advanced Development + Internship + Final Year Project
+                                                                                            
+```
 
 <br>
-
-<div align="center">
 
 ### ⭐ Thanks for visiting my profile! I'm always learning, building, and improving my skills through practical projects.
 
