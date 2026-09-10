@@ -108,7 +108,7 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 
 
 **B.S. Computer Science** — KICSIT University, IST Campus, Kahuta-Rawalpindi
-&nbsp;&nbsp;&nbsp;Duration - 2024 - 2028 · Status - **Semester 5 Starting** · CGPA: 3.46/4.0
+| Duration - 2024 - 2028 |  | Status - **Semester 5 Starting** | | CGPA: 3.46/4.0 |
 
 <br>
 
