@@ -31,34 +31,47 @@ I'm a Bachelor of Science in Computer Science student currently starting        
 
 ## 🛠 Tech Stack
 
-<div align="center">
-💻 Programming Languages
-<img src="https://img.shields.io/badge/C++-2EC4B6?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-2EC4B6?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-2EC4B6?style=flat-square&logo=javascript&logoColor=white">
+**Languages**
 
-<br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🌐 Web Development
-<img src="https://img.shields.io/badge/HTML5-2EC4B6?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-2EC4B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Flask-2EC4B6?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/REST%20APIs-2EC4B6?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Responsive%20Design-2EC4B6?style=flat-square&logo=css3&logoColor=white">
+**Web / Mobile**
 
-<br><br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flask](<img src="https://img.shields.io/badge/Flask-2EC4B6?style=flat-square&logo=flask&logoColor=white">)
 
-🗄️ Databases
-<img src="https://img.shields.io/badge/MongoDB-2EC4B6?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-2EC4B6?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20SQL-2EC4B6?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-2EC4B6?style=flat-square&logo=sqlite&logoColor=white">
+**Database**
 
-<br><br>
+![Mongodb](<img src="https://img.shields.io/badge/MongoDB-2EC4B6?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-2EC4B6?style=flat-square&logo=mysql&logoColor=white">)
+![SQL](<img src="https://img.shields.io/badge/Oracle%20SQL-2EC4B6?style=flat-square&logo=oracle&logoColor=white">)
 
-🤖 AI / Machine Learning
-<img src="https://img.shields.io/badge/NumPy-2EC4B6?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2EC4B6?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-2EC4B6?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/RAG-2EC4B6?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/LLMs-2EC4B6?style=flat-square&logo=openai&logoColor=white">
+**AI & Machine Learning**
 
-<br><br>
+![Numpy](<img src="https://img.shields.io/badge/NumPy-2EC4B6?style=flat-square&logo=numpy&logoColor=white">)
+![Pandas](<img src="https://img.shields.io/badge/Pandas-2EC4B6?style=flat-square&logo=pandas&logoColor=white">)
+![Scikit-learn](<img src="https://img.shields.io/badge/Scikit--learn-2EC4B6?style=flat-square&logo=scikit-learn&logoColor=white">)
+![RAG](<img src="https://img.shields.io/badge/RAG-2EC4B6?style=flat-square&logo=openai&logoColor=white">)
+![LLMs](<img src="https://img.shields.io/badge/LLMs-2EC4B6?style=flat-square&logo=openai&logoColor=white">)
 
-🔧 Development Tools
-<img src="https://img.shields.io/badge/Git-2EC4B6?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-2EC4B6?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-2EC4B6?style=flat-square&logo=visual-studio-code&logoColor=white">
+**Core Concepts**
 
-<br><br>
+![OOP](<img src="https://img.shields.io/badge/OOP-2EC4B6?style=flat-square">)
+![DSA](<img src="https://img.shields.io/badge/DSA-2EC4B6?style=flat-square">)
+![CRUD](<img src="https://img.shields.io/badge/CRUD-2EC4B6?style=flat-square">)
+![REST](<img src="https://img.shields.io/badge/REST%20Architecture-2EC4B6?style=flat-square">)
+![NoSQL](<img src="https://img.shields.io/badge/NoSQL-2EC4B6?style=flat-square">)
 
-🧠 Core Concepts
-<img src="https://img.shields.io/badge/OOP-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/DSA-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/CRUD-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/REST%20Architecture-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/Database%20Design-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/SQL-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/NoSQL-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/Problem%20Solving-2EC4B6?style=flat-square"> </div>
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 <br>
 
