@@ -367,42 +367,6 @@ I'm currently strengthening my foundation in **Artificial Intelligence and Machi
 - Large Language Models
 
 ---
-
-# 📚 Currently Learning
-
-```text
-Frontend Development
-        ↓
-Full Stack Development
-        ↓
-Backend & REST APIs
-        ↓
-Database Development
-        ↓
-AI & Machine Learning                                                                                                                                                                                                                                                                                                                                                                                                                 ----                                                                                                                                                                                                              2024
-│
-├── Started BS Computer Science
-├── HTML & CSS
-└── Academic Web Projects
-│
-2025
-│
-├── C++ & OOP
-├── SQL & Database Development
-├── Problem Solving
-└── C++ Programming Projects
-│
-2026
-│
-├── Full Stack Development
-├── Flask & MongoDB
-├── REST APIs
-├── AI/ML Foundations
-└── Practical Software Projects
-│
-2027 - 2028
-│
-└── Advanced Development + Internship + Final Year Project
 Humna-2025 (HUMNA NAWAZ)                                                                                                                                                                                            <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Humna+Nawaz;BS+Computer+Science+Student;Full+Stack+Developer+in+Progress;AI%2FML+Enthusiast;Building+Practical+Software+Projects" alt="Typing SVG" />
@@ -499,3 +463,39 @@ My goal is to become a strong **Full Stack Developer** while continuing to devel
   ▼              ▼               ▼              ▼               ▼
 Start BSCS    Foundation      Semester 5    Advanced CS      Graduation
               & Projects      & AI/ML       & Development    Summer 2028
+# 📚 Currently Learning
+
+```text
+Frontend Development
+        ↓
+Full Stack Development
+        ↓
+Backend & REST APIs
+        ↓
+Database Development
+        ↓
+AI & Machine Learning                                                                                                                                                                                                                                                                                                                                                                                                                 ----                                                                                                                                                                                                              2024
+│
+├── Started BS Computer Science
+├── HTML & CSS
+└── Academic Web Projects
+│
+2025
+│
+├── C++ & OOP
+├── SQL & Database Development
+├── Problem Solving
+└── C++ Programming Projects
+│
+2026
+│
+├── Full Stack Development
+├── Flask & MongoDB
+├── REST APIs
+├── AI/ML Foundations
+└── Practical Software Projects
+│
+2027 - 2028
+│
+└── Advanced Development + Internship + Final Year Project
+
