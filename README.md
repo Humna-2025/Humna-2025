@@ -12,41 +12,74 @@
 </div>
 
 <br>                                                                                                                                                                       
-
 ## 🧭 About Me
 
 ```yaml
 name:         Humna Nawaz
 role:         BS Computer Science Student
 university:   KICSIT University, IST Campus, Kahuta-Rawalpindi
-location:     Pakistan 🇵🇰
-education:    BS Computer Science
+location:     Islamabad, Pakistan 🇵🇰
 semester:     5th Semester
 focus:        [Frontend Development, Full Stack Development,
-               AI/ML, Software Engineering, Database Development]
-status:       Learning, Building & Exploring 🚀
-I'm a Bachelor of Science in Computer Science student currently starting my 5th semester.
+              AI/ML, Software Engineering, Database Development]
+status:       Learning, Building & Exploring 🚀                                                                                                               
+```
 
-I am interested in Frontend Development, Full Stack Web Development, AI/ML, and Software Engineering. I enjoy building academic and practical projects that help me strengthen my programming, database, web development, and problem-solving skills.
+I'm a Bachelor of Science in Computer Science student currently starting                                                                                        my 5th semester.I am interested in Frontend Development, Full Stack Web Development,                                                                        AI/ML, and Software Engineering. I enjoy building academic and practical projects                                                                                 that help me strengthen my programming, database, web development, and problem-solving                                                                       skills.My project experience includes C++, Python, Flask, HTML, CSS, JavaScript, SQL,                                                                       Oracle, MongoDB, PyMongo, and Object-Oriented Programming.I'm currently focused on                                                                        improving my Full Stack Development and AI/ML skills while building practical projects                                                                          and preparing for internship opportunities.
 
-My project experience includes C++, Python, Flask, HTML, CSS, JavaScript, SQL, Oracle, MongoDB, PyMongo, and Object-Oriented Programming.
+<br>                                                                                                         
 
-I'm currently focused on improving my Full Stack Development and AI/ML skills while building practical projects and preparing for internship opportunities.
+## 🛠 Tech Stack
+
+<div align="center">
+💻 Programming Languages
+<img src="https://img.shields.io/badge/C++-2EC4B6?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Python-2EC4B6?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-2EC4B6?style=flat-square&logo=javascript&logoColor=white">
+
+<br><br>
+
+🌐 Web Development
+<img src="https://img.shields.io/badge/HTML5-2EC4B6?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-2EC4B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Flask-2EC4B6?style=flat-square&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/REST%20APIs-2EC4B6?style=flat-square&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Responsive%20Design-2EC4B6?style=flat-square&logo=css3&logoColor=white">
+
+<br><br>
+
+🗄️ Databases
+<img src="https://img.shields.io/badge/MongoDB-2EC4B6?style=flat-square&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-2EC4B6?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Oracle%20SQL-2EC4B6?style=flat-square&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-2EC4B6?style=flat-square&logo=sqlite&logoColor=white">
+
+<br><br>
+
+🤖 AI / Machine Learning
+<img src="https://img.shields.io/badge/NumPy-2EC4B6?style=flat-square&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-2EC4B6?style=flat-square&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--learn-2EC4B6?style=flat-square&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/RAG-2EC4B6?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/LLMs-2EC4B6?style=flat-square&logo=openai&logoColor=white">
+
+<br><br>
+
+🔧 Development Tools
+<img src="https://img.shields.io/badge/Git-2EC4B6?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-2EC4B6?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-2EC4B6?style=flat-square&logo=visual-studio-code&logoColor=white">
+
+<br><br>
+
+🧠 Core Concepts
+<img src="https://img.shields.io/badge/OOP-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/DSA-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/CRUD-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/REST%20Architecture-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/Database%20Design-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/SQL-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/NoSQL-2EC4B6?style=flat-square"> <img src="https://img.shields.io/badge/Problem%20Solving-2EC4B6?style=flat-square"> </div>
 
 <br>
-##🎓 Education
 
-BS Computer Science
+## 📊 GitHub Stats
 
-KICSIT University, IST Campus, Kahuta-Rawalpindi
+<div align="center">
 
-📅 2024 - 2028
-📚 Currently starting Semester 5
-📊 CGPA: 3.46
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Uzair390-Del&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair390-Del&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
-🛠 Tech Stack
-Programming Languages
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uzair390-Del&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Uzair390-Del&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br>
 
 
 
@@ -55,7 +88,9 @@ Programming Languages
 
 
 
-Web Development
+
+
+
 
 
 
